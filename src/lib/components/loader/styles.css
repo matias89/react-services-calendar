@@ -1,0 +1,14 @@
+/* LOADER */
+.calendar-loader {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    font-weight: bold;
+    height: 100%;
+    left: 0;
+    padding: 20px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+}

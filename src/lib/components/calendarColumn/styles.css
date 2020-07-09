@@ -1,0 +1,17 @@
+/* COLUMN */
+.calendar-column {
+    flex: 1;
+}
+.calendar-column button {
+    border: 1px solid #CCC;
+    font-size: 1rem;
+    height: 40px;
+    width: 100%;
+}
+.calendar-column .calendar-button-description {
+    color: green;
+    font-size: 0.7rem;
+}
+.calendar-column button:active, .calendar-column button:focus {
+    background-color: #fff4f4;
+}
